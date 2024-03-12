@@ -1,4 +1,4 @@
-This is the source for a bitcrusher plugin. This was meant to be a jumping off point for learning JUCE, but there's quite a lot I'd like to do.
+This is the source for a bitcrusher plugin. This was meant to be a jumping off point for learning JUCE, but there's quite a lot I'd like to do with it.
 
 Parameters:
   Decimation: Downsampling factor. A decimation of 10 will reduce the signal to 1/10 the number of samples.
