@@ -2,3 +2,9 @@ This a place for me to upload the source and most-up-to-date builds of the plugi
 
 Current plugins:
   Decimator (Bitcrusher)
+
+Plugin ideas to explore:
+Delay
+Physical Modelling synthesis
+Granulator synthesiser using GW waveforms as grains
+Reverb
