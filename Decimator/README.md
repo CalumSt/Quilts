@@ -20,7 +20,11 @@ Parameters:
     Harmonic Noise or "Harshness". I think this would be a good feature to add more noise, but needs a better understanding of JUCE's waveshapers to implement.
     
     "Smoothing". How much each sample should be smoothed with subsequent samples using a moving average.
+
+    Jitter - I think I want to change this to apply random sizing to the downsampling. Or this could apply a factor to more than just 1 sample at a time, as it's currently quite harsh.
     
     GUI. I've had some good results with the initial UI, and I'm happier with it compared to a default, but there's a lot more to be done to create a good 'feel'. This needs some defining of what I'd like it to look like. 
           Some things I'd like to implement/look into: Level meters, joint dials and sliders, resizable graphics, shading
           Some good plugins I enjoy the GUI of: Ableton default, Goodhertz, Codec
+
+          
